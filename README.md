@@ -158,7 +158,7 @@ Biswajit Nandi</a></h1>
 
 ### 💻 Profile Stats
 
-<img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&theme=radical" height="150px"/><img alt="bjnandi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjnandi&langs_count=8&layout=compact&theme=radical" height="150px"/>
+<img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&theme=radical" height="190px"/><img alt="bjnandi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjnandi&langs_count=8&layout=compact&theme=radical" height="190px"/>
 
 
 ### 🔥 Streak Stats
