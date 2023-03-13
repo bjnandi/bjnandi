@@ -8,6 +8,7 @@ Biswajit Nandi</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
 <br>
+<p align="right"> <a href="https://twitter.com/bjnandi" target="blank"><img src="https://img.shields.io/twitter/follow/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
