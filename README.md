@@ -6,10 +6,8 @@ Biswajit Nandi</a></h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experience+With..&hearts;++;AWS,+GCP,+Kubernetes,+Terraform,;CICD,+Container,+Microservices;Also+Active+Learner/Researcher,;Love+to+learn+new+stuffs."></a>
 </p>
 
-
+<p align="L=left">![Profile View](https://komarev.com/ghpvc/?username=bjnandi&color=brightgreen) </p>
 <br>
-
-
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -80,6 +78,6 @@ Biswajit Nandi</a></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjnandi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bjnandi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=bjnandi&color=brightgreen)
+
 
 
