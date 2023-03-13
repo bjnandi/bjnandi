@@ -20,7 +20,7 @@ Biswajit Nandi</a></h1>
 
 - 🌱 I’m currently learning Container & Kubernetes 
 
-- 💬 Ask me about **DevOps & Cloud**
+- 💬 Ask me about **DevOps & Cloud Computing**
 
 - 📫 How to reach me **nbiswajit94@gmail.com**
 
