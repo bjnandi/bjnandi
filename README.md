@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="http://biswajitnandi.com/" target="blank">
 Biswajit Nandi</a></h1>
-<h3 align="center">A Passionate DevOps/Cloud Engineer from Khulna, Bangladesh &#127470;&#127475</h3>
+<h3 align="center">A Passionate DevOps/Cloud Engineer from Khulna, Bangladesh</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experience With..&hearts;++;@ AWS, GCP; Kubernetes, Terraform; CICD, Container; Microservices, Monitoring <3"></a>
 </p>
 
 
