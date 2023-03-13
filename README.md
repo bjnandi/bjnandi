@@ -10,6 +10,9 @@ Biswajit Nandi</a></h1>
 <br>
 <p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="blank"><img src="https://img.shields.io/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p>
 
+
+<p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="blank"><img src="https://img.shields.io/linkedin/follow/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p>
+
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
