@@ -98,12 +98,12 @@ Biswajit Nandi</a></h1>
 
 ### 💻 Profile Stats
 
-<img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&theme=radical" height="190px" /> &nbsp; <img alt="bjnandi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjnandi&langs_count=8&layout=compact&theme=radical" height="190px" />
+<img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&theme=radical" height="190px" width="100%" /> &nbsp; 
 
 
 ### 🔥 Streak Stats
 
-<img alt="bjnandi's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bjnandi&theme=tokyonight" height="190px" width="49%"/> &nbsp; <img alt="bjnandi's Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=bjnandi&repo=glue-without-composer&theme=radical" height="190px" width="49%"/>
+<img alt="bjnandi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjnandi&langs_count=8&layout=compact&theme=radical" height="190px" /> <img alt="bjnandi's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bjnandi&theme=tokyonight" height="190px" width="49%"/> &nbsp; <img alt="bjnandi's Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=bjnandi&repo=glue-without-composer&theme=radical" height="190px" width="49%"/>
 
 ### 📊 Contribution Stats
 
