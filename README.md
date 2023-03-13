@@ -158,7 +158,7 @@ Biswajit Nandi</a></h1>
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=bjnandi&theme=tokyonight) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bjnandi&repo=other&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="bjnandi's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bjnandi&theme=tokyonight" height="190px" width="50%"/> &nbsp; <img alt="bjnandi's Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=bjnandi&repo=glue-without-composer&theme=radical" height="190px" width="48%"/>
 
 ### 📊 Contribution Stats
 
