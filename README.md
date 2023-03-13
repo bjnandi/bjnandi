@@ -6,7 +6,7 @@ Biswajit Nandi</a></h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experience+With..&hearts;++;AWS,+GCP,+Kubernetes,+Terraform,;CICD,+Container,+Microservices;Also+Active+Learner/Researcher,;Love+to+learn+new+stuffs."></a>
 </p>
 
-<p align="L=left">![Profile View](https://komarev.com/ghpvc/?username=bjnandi&color=brightgreen) </p>
+<p align="left">![](https://komarev.com/ghpvc/?username=bjnandi&color=brightgreen) </p>
 <br>
 
 	
