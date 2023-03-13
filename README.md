@@ -8,9 +8,9 @@ Biswajit Nandi</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
 <br>
-<p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="blank"><img src="https://img.shields.io/linkedin/follow/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="blank"><img src="https://img.shields.io/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p>
 
-	https://img.shields.io/badge/LinkedIn-Follow-green
+	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
