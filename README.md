@@ -1,22 +1,38 @@
 <h1 align="center">Hi 👋, I'm <a href="http://biswajitnandi.com/" target="blank">
 Biswajit Nandi</a></h1>
 <h3 align="center">A Passionate DevOps/Cloud Engineer from Khulna, Bangladesh</h3>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experience+With..&hearts;++;AWS,+GCP,+Kubernetes,+Terraform,;CICD,+Container,+Microservices;Also+Active+Learner/Researcher,;Love+to+learn+new+stuffs."></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
-<br>
-
 <p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="_blank" ><img src="https://img.shields.io/twitter/follow/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p>
-
+	
+	
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+
+
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+
+- 🌱 I’m currently Working on Mobile App(React-Native)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **saurabhchavan052@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<br/>
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
