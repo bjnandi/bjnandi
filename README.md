@@ -80,7 +80,7 @@ Biswajit Nandi</a></h1>
 ### 💻 Profile Stats
 
 
-<table border="0">
+<table >
  <tr>
     <td><img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="190px" /></td>
     <td><img align="center"   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bjnandi&theme=radical&hide_border=true)](https://github.com/bjnandi" alt="bjnandi's GitHub Stats Graph"  /></td>
@@ -89,49 +89,18 @@ Biswajit Nandi</a></h1>
 </table>
 
 
-
-
-
-
-  
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=bjnandi&theme=radical&no-bg=true" />
-
 ### 🔥 Streak Stats
-
-<img alt="bjnandi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjnandi&langs_count=8&layout=compact&theme=radical" height="190px" />&nbsp; <img alt="bjnandi's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bjnandi&theme=radical" height="190px" width="49%"/> 
+<table >
+ <tr>
+    <td><img alt="bjnandi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjnandi&langs_count=8&layout=compact&theme=radical" height="190px" /></td>
+    <td><img alt="bjnandi's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bjnandi&theme=radical" height="190px"/> </td>
+ </tr>
+</table>
 
 ### 📊 Contribution Stats
 
 <img alt="bjnandi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=bjnandi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-
-## Blog & Writing &#x270d; 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
-
-
-## Extras 📝
-  <details>
-  <summary>Click to expand!</summary>
-  <br>
-    <p>
-<a href="https://github.com/rahulkarda?tab=followers">
-    <img src="https://img.shields.io/github/followers/rahulkarda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=NigamAwantika">
-    <img src="https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="TWitter Followers"/>
-  </a>
- </p>
- <br>
-  <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkarda&theme=onedark&column=3&margin-w=15&margin-h=15" />
-  </p>
-  <br>
- <img src="https://metrics.lecoq.io/rahulkarda?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
-</details>
 <div align="center">
-  
-<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me 🤝 </h3>
 
 
@@ -155,7 +124,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <div align="center">  
 <a href="https://www.buymeacoffee.com/bjnandi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
-
 <br>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
