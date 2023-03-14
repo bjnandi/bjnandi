@@ -118,16 +118,28 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </details>
 <div align="center">
   
-<h3>Contact Me :handshake:</h3>
-<a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="https://twitter.com/marcelo_garbin" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
-<a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
-<br/><br/>
-<a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me 🤝 </h3>
+
+
+       
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bjnandi/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+       
+   <a style="margin-left: 10px;" target="_blank" href="https://github.com/bjnandi">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	
+   <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/bjnandi">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	
+   <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCO-47xkQYSQ3M9jVPZ4ig2A?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/google-squared--v2.png" ></a>
+
+<br><div align="center">  
+<a href="https://www.buymeacoffee.com/bjnandi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
 
+<br>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Biswajit Nandi
