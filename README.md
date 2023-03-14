@@ -21,7 +21,7 @@ Biswajit Nandi</a></h1>
 
 - 📄 I’m currently open for an Intern or a new job opportunity, this is <a href="#" target="blank">Resume</a>
 <br/>
-<p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="_blank" ><img src="https://img.shields.io/twitter/follow/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="blank" ><img src="https://img.shields.io/twitter/follow/bjnandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
