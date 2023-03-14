@@ -79,10 +79,23 @@ Biswajit Nandi</a></h1>
 
 ### 💻 Profile Stats
 
-<img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="190px" />
-<img src="https://github-profile-trophy.vercel.app/?username=bjnandi&theme=radical&no-bg=true" />
 
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bjnandi&theme=radical&hide_border=true)](https://github.com/bjnandi" alt="bjnandi's GitHub Stats Graph"/>
+<table border="0">
+ <tr>
+    <td><img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="190px" /></td>
+    <td><img align="center"   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bjnandi&theme=radical&hide_border=true)](https://github.com/bjnandi" alt="bjnandi's GitHub Stats Graph"  /></td>
+ </tr>
+
+</table>
+
+
+
+
+
+
+  
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=bjnandi&theme=radical&no-bg=true" />
 
 ### 🔥 Streak Stats
 
@@ -124,18 +137,22 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
        
    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bjnandi/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-       
-   <a style="margin-left: 10px;" target="_blank" href="https://github.com/bjnandi">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+			<img src="https://img.icons8.com/plasticine/x/linkedin.png"></a>
+	
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/bjnandi/">
+			<img src="https://img.icons8.com/plasticine/x/facebook-new.png"></a>
 	
    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/bjnandi">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+			<img src="https://img.icons8.com/plasticine/x/twitter.png" ></a>
+
 	
    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCO-47xkQYSQ3M9jVPZ4ig2A?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/google-squared--v2.png" ></a>
+			<img src="https://img.icons8.com/plasticine/x/youtube-play--v2.png" ></a>
 
-<br><div align="center">  
+  <a style="margin-left: 10px;" target="_blank" href="https://bjtechlife.com">
+			<img src="https://img.icons8.com/stickers/1x/domain.png" ></a>
+	
+<div align="center">  
 <a href="https://www.buymeacoffee.com/bjnandi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
 
