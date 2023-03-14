@@ -9,20 +9,19 @@ Biswajit Nandi</a></h1>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🔭 A Passionate DevOps & Cloud Computing
+ ✔ 🔭 A Passionate DevOps & Cloud Computing
 
-- 🤝 I’m available for <i>**Remote Jobs or Freelancing**</i>
+✔ 🤝 I’m available for <i>**Remote Jobs or Freelancing**</i>
 
-- 🌱 I’m currently learning Container & Kubernetes 
+✔ 🌱 I’m currently learning Container & Kubernetes 
 
-- 💬 Ask me about **DevOps & Cloud Computing**
+✔ 💬 Ask me about **DevOps & Cloud Computing**
 
-- 📫 How to reach me **nbiswajit94@gmail.com**
+✔ 📫 How to reach me **nbiswajit94@gmail.com**
 
-- 📄 I’m currently open for an Intern or a new job opportunity, this is <a href="https://docs.google.com/document/d/1LqSeDYJvSjLPAVBmXPM_AyDjGmutVpYdd5u3OTpSnME/edit?usp=share_link" target="blank">Resume</a>
+✔ 📄 I’m currently open for an Intern or a new job opportunity, this is <a href="https://docs.google.com/document/d/1LqSeDYJvSjLPAVBmXPM_AyDjGmutVpYdd5u3OTpSnME/edit?usp=share_link" target="blank">Resume</a>
 <br/>
-<p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="_blank" ><img src="https://img.shields.io/twitter/follow/ Biswajit nandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
-
+<p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="_blank" ><img src="https://img.shields.io/twitter/follow/ Biswajit nandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -83,7 +82,7 @@ Biswajit Nandi</a></h1>
 <img alt="bjnandi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bjnandi&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="190px" />
 <img src="https://github-profile-trophy.vercel.app/?username=bjnandi&theme=radical&no-bg=true" />
 
-
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bjnandi&theme=radical&hide_border=true)](https://github.com/bjnandi" alt="bjnandi's GitHub Stats Graph"/>
 
 ### 🔥 Streak Stats
 
@@ -92,3 +91,46 @@ Biswajit Nandi</a></h1>
 ### 📊 Contribution Stats
 
 <img alt="bjnandi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=bjnandi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+
+## Blog & Writing &#x270d; 
+Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
+
+
+## Extras 📝
+  <details>
+  <summary>Click to expand!</summary>
+  <br>
+    <p>
+<a href="https://github.com/rahulkarda?tab=followers">
+    <img src="https://img.shields.io/github/followers/rahulkarda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=NigamAwantika">
+    <img src="https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="TWitter Followers"/>
+  </a>
+ </p>
+ <br>
+  <p>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkarda&theme=onedark&column=3&margin-w=15&margin-h=15" />
+  </p>
+  <br>
+ <img src="https://metrics.lecoq.io/rahulkarda?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
+</details>
+<div align="center">
+  
+<h3>Contact Me :handshake:</h3>
+<a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://twitter.com/marcelo_garbin" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
+<a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
+<br/><br/>
+<a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+</div>
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Biswajit Nandi
+</div>
+<br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
