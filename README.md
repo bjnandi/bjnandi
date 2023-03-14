@@ -19,7 +19,7 @@ Biswajit Nandi</a></h1>
 
 - 📫 How to reach me **nbiswajit94@gmail.com**
 
-- 📄 I’m currently open for an Intern or a new job opportunity, this is <a href="#" target="blank">Resume</a>
+- 📄 I’m currently open for an Intern or a new job opportunity, this is <a href="https://docs.google.com/document/d/1LqSeDYJvSjLPAVBmXPM_AyDjGmutVpYdd5u3OTpSnME/edit?usp=share_link" target="blank">Resume</a>
 <br/>
 <p align="left"> <a href="https://www.linkedin.com/in/bjnandi/" target="_blank" ><img src="https://img.shields.io/twitter/follow/ Biswajit nandi?logo=linkedin&style=for-the-badge" alt="bjnandi" /></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
 
@@ -40,7 +40,7 @@ Biswajit Nandi</a></h1>
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
   
-### Misc tools:
+### Misc Tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
