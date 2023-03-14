@@ -2,7 +2,7 @@
 Biswajit Nandi</a></h1>
 <h3 align="center">A Professional DevOps/Cloud Engineer from Khulna, Bangladesh</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experience+With..&hearts;++;AWS,+GCP,+Kubernetes,+Terraform,;CICD,+Container,+Microservices;Also+Active+Learner/Researcher,;Love+to+learn+new+stuffs."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experience+With.....;AWS,+GCP,+Kubernetes,+Container,;CICD,+Terraform,+Microservices;also+a+active+Learner/Researcher,;Love+to+learn+new+stuffs+&hearts;++"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
