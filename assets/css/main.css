@@ -11343,7 +11343,7 @@ small,.small{
     font-family: "Courier New", Monospace!important;
 }
  .cv-button {
-     background: rgba(0,0,0,.15);
+    background: rgba(0,0,0,.15);
     color: #d7dde9!important;
     font-weight: bold!important;
     padding: 0.3rem 1rem!important;
