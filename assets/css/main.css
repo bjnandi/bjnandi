@@ -11327,11 +11327,7 @@ small,.small{
     }
 }
 
-@media (max-width: 767px){
-  .animation-text .typed-text-output, .typed-cursor {
-    font-size:15px!important;
-  }
-}
+
  .resume-contact a{
     color:#a5b3ce;
 }
@@ -11355,4 +11351,10 @@ small,.small{
  .cv-button:hover{
     background: rgba(0,0,0,.15);
     color: #629FEB!important;
+}
+
+@media (max-width: 767px){
+  .animation-text .typed-text-output, .typed-cursor {
+    font-size:14px!important;
+  }
 }
