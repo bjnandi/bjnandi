@@ -11325,9 +11325,11 @@ small,.small{
     .resume-wrapper{
         max-width:980px
     }
+}
 
-    .animation-text .typed-text-output, .typed-cursor {
-    font-size:14px!important;
+@media (max-width: 767px){
+  .animation-text .typed-text-output, .typed-cursor {
+    font-size:15px!important;
   }
 }
  .resume-contact a{
