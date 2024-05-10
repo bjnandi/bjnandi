@@ -73,7 +73,6 @@ Biswajit Nandi</a></h1>
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-
 &emsp;
 ## 📰 Latest Article
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
