@@ -126,7 +126,8 @@ Biswajit Nandi</a></h1>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
 
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/2" alt="Recent Article 2"> 
 
