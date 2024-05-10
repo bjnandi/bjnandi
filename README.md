@@ -130,5 +130,5 @@ Biswajit Nandi</a></h1>
 <br>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
 
- [![bjnandi Medium](https://github-readme-medium.vercel.app/?username=bjnandi&limit=2&bg=222&text=fff)](https://medium.com/@bjnandi)
+ [![bjnandi Medium](https://github-readme-medium.vercel.app/?username=bjnandi&limit=6&bg=222f2e&text=ff0000)](https://medium.com/@bjnandi)
 
