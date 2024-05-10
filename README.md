@@ -75,6 +75,11 @@ Biswajit Nandi</a></h1>
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 
 &emsp;
+## 📰 Latest Article
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/3" alt="Recent Article 2"> 
+&emsp;
 ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
@@ -96,11 +101,6 @@ Biswajit Nandi</a></h1>
     <td><img alt="bjnandi's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bjnandi&theme=radical" height="190px"/> </td>
  </tr>
 </table>
-
-### 📰 Latest Article
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/3" alt="Recent Article 2"> 
 
 <div align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me 🤝 </h3>
