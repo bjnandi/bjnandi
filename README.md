@@ -114,7 +114,7 @@ Biswajit Nandi</a></h1>
 	
    <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@bjnandi">
 			
-   <img src="https://img.icons8.com/stickers/100/medium-logo.png" alt="medium-logo"/></a>
+   <img src="https://img.icons8.com/stickers/100/medium-logo.png" /></a>
 
   <a style="margin-left: 10px;" target="_blank" href="https://biswajitnandi.com/">
 			<img src="https://img.icons8.com/stickers/1x/domain.png" ></a>
