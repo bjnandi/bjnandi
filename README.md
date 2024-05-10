@@ -107,9 +107,6 @@ Biswajit Nandi</a></h1>
 	
    <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/bjnandi/">
 			<img src="https://img.icons8.com/plasticine/x/facebook-new.png"></a>
-	
-   <a style="margin-left: 10px; margin-top: 10px;" target="_blank" href="https://twitter.com/bjnandi">
-			<img src="https://img.icons8.com/plasticine/x/twitter.png" ></a>
 
  <a style="margin-left: 15px;" target="_blank" href="https://medium.com/@bjnandi">
   			 <img width="70" height="70" src="https://img.icons8.com/stickers/100/medium-logo.png" alt="medium-logo"/></a>
