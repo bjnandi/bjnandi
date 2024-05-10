@@ -97,6 +97,11 @@ Biswajit Nandi</a></h1>
  </tr>
 </table>
 
+### 📰 Latest Article
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/3" alt="Recent Article 2"> 
+
 <div align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me 🤝 </h3>
 
@@ -124,10 +129,4 @@ Biswajit Nandi</a></h1>
 </div>
 <br>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
-
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bjnandi/2" alt="Recent Article 2"> 
 
