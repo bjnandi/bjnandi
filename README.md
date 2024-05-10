@@ -97,9 +97,6 @@ Biswajit Nandi</a></h1>
  </tr>
 </table>
 
-### 📊 Contribution Stats
-
-<img alt="bjnandi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=bjnandi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <div align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me 🤝 </h3>
 
@@ -115,10 +112,11 @@ Biswajit Nandi</a></h1>
 			<img src="https://img.icons8.com/plasticine/x/twitter.png" ></a>
 
 	
-   <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCO-47xkQYSQ3M9jVPZ4ig2A?view_as=subscriber">
-			<img src="https://img.icons8.com/plasticine/x/youtube-play--v2.png" ></a>
+   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@bjnandi">
+			
+   <img src="https://img.icons8.com/stickers/100/medium-logo.png" alt="medium-logo"/></a>
 
-  <a style="margin-left: 10px;" target="_blank" href="https://bjtechlife.com">
+  <a style="margin-left: 10px;" target="_blank" href="https://biswajitnandi.com/">
 			<img src="https://img.icons8.com/stickers/1x/domain.png" ></a>
 	
 <div align="center">  
@@ -127,7 +125,7 @@ Biswajit Nandi</a></h1>
 <br>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Biswajit Nandi
+  &copy; 2024 Biswajit Nandi
 </div>
 <br>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjnandi&label=Profile%20Views&color=0e75b6&style=flat&color=brightgreen" alt="bjnandi" /> </p>
